@@ -20,7 +20,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -1074,51 +1074,51 @@ TextureImporter:
     - texture: {fileID: 2800000, guid: 85f876f90929ec049aedf14e29c6f99c, type: 3}
       name: _Emission
     nameFileIdTable:
-      Karl_Hero_Main_19: 1729927473
-      Karl_Hero_Main_43: 72613747
-      Karl_Hero_Main_9: 1553918002
-      Karl_Hero_Main_14: -1228864687
-      Karl_Hero_Main_2: 66735328
-      Karl_Hero_Main_40: -1631678777
-      Karl_Hero_Main_22: 491087123
-      Karl_Hero_Main_25: -1815278066
-      Karl_Hero_Main_32: 1496386820
-      Karl_Hero_Main_26: -966514888
-      Karl_Hero_Main_34: -698016962
-      Karl_Hero_Main_16: 1390916468
-      Karl_Hero_Main_6: 728252417
-      Karl_Hero_Main_8: 1508999946
-      Karl_Hero_Main_38: -1326332841
-      Karl_Hero_Main_27: 1027092241
-      Karl_Hero_Main_35: 1769363626
-      Karl_Hero_Main_3: -784525640
-      Karl_Hero_Main_39: -1708031027
-      Karl_Hero_Main_37: 1713452151
-      Karl_Hero_Main_21: 876681846
-      Karl_Hero_Main_29: -1816191527
-      Karl_Hero_Main_28: -811384343
-      Karl_Hero_Main_13: -1352801009
-      Karl_Hero_Main_20: -535604771
-      Karl_Hero_Main_17: -594366681
-      Karl_Hero_Main_23: 1680752476
-      Karl_Hero_Main_18: 1982018065
-      Karl_Hero_Main_15: 1261886347
-      Karl_Hero_Main_36: 686532748
-      Karl_Hero_Main_4: -1490832259
-      Karl_Hero_Main_24: 2080896914
-      Karl_Hero_Main_44: 235658449
-      Karl_Hero_Main_33: -586506088
-      Karl_Hero_Main_41: -124720644
-      Karl_Hero_Main_5: 1733825850
-      Karl_Hero_Main_11: -1019329212
-      Karl_Hero_Main_42: 1587357084
-      Karl_Hero_Main_7: -373569890
-      Karl_Hero_Main_31: -1665384326
-      Karl_Hero_Main_30: 72218349
       Karl_Hero_Main_0: -1782488488
-      Karl_Hero_Main_10: 1444455919
       Karl_Hero_Main_1: -864307951
+      Karl_Hero_Main_10: 1444455919
+      Karl_Hero_Main_11: -1019329212
       Karl_Hero_Main_12: -1830480800
+      Karl_Hero_Main_13: -1352801009
+      Karl_Hero_Main_14: -1228864687
+      Karl_Hero_Main_15: 1261886347
+      Karl_Hero_Main_16: 1390916468
+      Karl_Hero_Main_17: -594366681
+      Karl_Hero_Main_18: 1982018065
+      Karl_Hero_Main_19: 1729927473
+      Karl_Hero_Main_2: 66735328
+      Karl_Hero_Main_20: -535604771
+      Karl_Hero_Main_21: 876681846
+      Karl_Hero_Main_22: 491087123
+      Karl_Hero_Main_23: 1680752476
+      Karl_Hero_Main_24: 2080896914
+      Karl_Hero_Main_25: -1815278066
+      Karl_Hero_Main_26: -966514888
+      Karl_Hero_Main_27: 1027092241
+      Karl_Hero_Main_28: -811384343
+      Karl_Hero_Main_29: -1816191527
+      Karl_Hero_Main_3: -784525640
+      Karl_Hero_Main_30: 72218349
+      Karl_Hero_Main_31: -1665384326
+      Karl_Hero_Main_32: 1496386820
+      Karl_Hero_Main_33: -586506088
+      Karl_Hero_Main_34: -698016962
+      Karl_Hero_Main_35: 1769363626
+      Karl_Hero_Main_36: 686532748
+      Karl_Hero_Main_37: 1713452151
+      Karl_Hero_Main_38: -1326332841
+      Karl_Hero_Main_39: -1708031027
+      Karl_Hero_Main_4: -1490832259
+      Karl_Hero_Main_40: -1631678777
+      Karl_Hero_Main_41: -124720644
+      Karl_Hero_Main_42: 1587357084
+      Karl_Hero_Main_43: 72613747
+      Karl_Hero_Main_44: 235658449
+      Karl_Hero_Main_5: 1733825850
+      Karl_Hero_Main_6: 728252417
+      Karl_Hero_Main_7: -373569890
+      Karl_Hero_Main_8: 1508999946
+      Karl_Hero_Main_9: 1553918002
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
