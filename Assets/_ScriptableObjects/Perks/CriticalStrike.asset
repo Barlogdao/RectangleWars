@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e2859757c24b2343a4d017226e69758, type: 3}
+  m_Name: CriticalStrike
+  m_EditorClassIdentifier: 
+  nameKey: Perk.CriticalStrike
+  Description: 
+  Perkprefab: {fileID: 1991935260860768426, guid: 0af562a0fc5027e45ac47409af654cb5, type: 3}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4817835550a206e41970e6866d9d35ef, type: 3}
+  m_Name: Ghoul
+  m_EditorClassIdentifier: 
+  Tier: 1
+  <BlankUnit>k__BackingField: 0
+  fraction: 1
+  Class: 2
+  AttackDistance: 1
+  Image: {fileID: 21300000, guid: fb13fb89e760dc147a44731018ccc327, type: 3}
+  stats:
+    Health: 20
+    Attack: 20
+    AttackSpeed: 10
+    Armor: 5
+    Speed: 2.5
+  Animator: {fileID: 22100000, guid: d38fb383da57ea047b204ef34be00f8d, type: 2}
+  BulletPrefab: {fileID: 0}
+  GoldCost: 3
+  HitSound: {fileID: 0}
+  DieSound: {fileID: 0}
+  PerkInfo: "\u0412\u0430\u043C\u043F\u0438\u0440\u0438\u0437\u043C\r\n"
+  PerkList:
+  - {fileID: 11400000, guid: 90c067d679537c24fa7be0c810c169bd, type: 2}

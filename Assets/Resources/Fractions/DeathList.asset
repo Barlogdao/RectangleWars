@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b29e755d0dbe0b42ac2c0af77f356b5, type: 3}
+  m_Name: DeathList
+  m_EditorClassIdentifier: 
+  fraction: 1
+  Worker: {fileID: 11400000, guid: 88c5a2bdb5a587c4299d62aa7234086e, type: 2}
+  ArmyList:
+  - {fileID: 11400000, guid: 5ac2f96852a8694488bd2512391df3d4, type: 2}
+  - {fileID: 11400000, guid: 1aff3d03be8174c4988fce447497d1a3, type: 2}
+  - {fileID: 11400000, guid: 3df2cf59527a3c24da865891eaecd923, type: 2}
+  - {fileID: 11400000, guid: df2210fea69a20d4ebc3400afb7dc0ae, type: 2}
+  - {fileID: 11400000, guid: b390a863006fb694da520b5827fa7683, type: 2}
+  SpellList:
+  - {fileID: 11400000, guid: ba865c6523cdda344bc56eaad8f2485e, type: 2}
+  - {fileID: 11400000, guid: 94007ab48cd905c43b0521aae9c1926c, type: 2}
+  - {fileID: 11400000, guid: 671dfef1ec58ebf40a00faa7284d0e99, type: 2}
+  - {fileID: 11400000, guid: 5592fc1de954b074ea5e90f495b8aba5, type: 2}

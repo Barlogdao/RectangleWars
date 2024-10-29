@@ -1,0 +1,937 @@
+fileFormatVersion: 2
+guid: 6a0433ce24e86e84a944933c45924272
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Necromancer Part Color_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f630aebb6327e44a794c84812df72b
+      internalID: -383467941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 516
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6ad69e4ca7cf4fbfcdd4444c8d7ac
+      internalID: -363441032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 516
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f74b6386a9ed441b718775b5b1c973
+      internalID: -889211457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 516
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dc28e98718a63479bc447bbd7cd8cd
+      internalID: -1488176895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 516
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0392e2683cb8552458d84a6ce16bca61
+      internalID: -2010158604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 516
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883567c9397f56f41b04176cbce18b54
+      internalID: -487704707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef484170ca850d4a9653b245b49d2d4
+      internalID: -11397433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 430
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2288ca2457dfa434b8528dd14b3db234
+      internalID: -523816356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 430
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0119bd56601e04294a635d4e8c1476
+      internalID: 1285052595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 430
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9707812f4c784040a589b266b1d1553
+      internalID: 1533897130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_10
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 430
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14116d21b3a63654cbedc68eb5c08df2
+      internalID: 313195137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 430
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c27eb3e07e5b6e46b86316681ea1c1c
+      internalID: -1804631186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2272b74a893c5469e755db44b4ab54
+      internalID: 1088571527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 344
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909aca83b12156e4fb174dbdc8e1954d
+      internalID: -636270439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 344
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ab5ad135a430f4892f10410b5130d3
+      internalID: -1783964796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 344
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d06a56ac6b09a498b65a70205132db
+      internalID: -1324048140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 344
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84cc175a269f08449b11677c1970f6f
+      internalID: 1442502640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 344
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ab9ff1e6a179443ac4200d4007e65c
+      internalID: -897473401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44851aa878dc7a745a868b4d98e147e7
+      internalID: 678740547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 258
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f04d8d83f33e044af5df02aa2bbcce
+      internalID: -665228423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 258
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d8d5b5679ec4045b8c9d34e7947526
+      internalID: 490738324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_21
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 258
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eee491c60d01c14598e2463e539b9c1
+      internalID: -1790481701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 258
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c285eb2848326514a91f1fb20336f5c5
+      internalID: 102013674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_23
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 258
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4055b53a8b7ad49b14b8837d5bf3b9
+      internalID: 940978766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cf1311c9387ca469177e81f5134d49
+      internalID: -1220244132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 172
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f2da40a02f57948b4820d3731df4b7
+      internalID: -1367173150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_26
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 172
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b17fda1ed3e3e4c81306313ad11d17
+      internalID: 984609081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_27
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 172
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d975bfd44268049bb082ca35290bb8
+      internalID: -1619672212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 172
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d1c498367608b40a5e5b85e5115cc2
+      internalID: -1783731171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_29
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 172
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8011abb11c809a04896d44d241d36ff8
+      internalID: 2121959101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc8a1c4cfb7dd7469b0e941549deba6
+      internalID: -1858957002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 86
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998007f675b19f94081e6ae56e766e85
+      internalID: -47860860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 86
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba78d09c649d9b48954266babc643ad
+      internalID: -1116459132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 86
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d27f918d7026b4293a0c7f013158a6
+      internalID: -1267740303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_34
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 86
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb929e999f2f2f4f9bcab420d63cd5a
+      internalID: 1929010376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_35
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 86
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f3b16f895286e4eada0aef2b713315
+      internalID: 657206616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer Part Color_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 112
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51d7298d0b5aa64cae57143d37a3ab0
+      internalID: 973601621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Necromancer Part Color_6: -11397433
+      Necromancer Part Color_8: 1285052595
+      Necromancer Part Color_5: -487704707
+      Necromancer Part Color_10: 313195137
+      Necromancer Part Color_31: -47860860
+      Necromancer Part Color_1: -363441032
+      Necromancer Part Color_36: 973601621
+      Necromancer Part Color_28: -1783731171
+      Necromancer Part Color_27: -1619672212
+      Necromancer Part Color_9: 1533897130
+      Necromancer Part Color_15: -1324048140
+      Necromancer Part Color_30: -1858957002
+      Necromancer Part Color_2: -889211457
+      Necromancer Part Color_14: -1783964796
+      Necromancer Part Color_3: -1488176895
+      Necromancer Part Color_13: -636270439
+      Necromancer Part Color_20: 490738324
+      Necromancer Part Color_12: 1088571527
+      Necromancer Part Color_23: 940978766
+      Necromancer Part Color_7: -523816356
+      Necromancer Part Color_18: 678740547
+      Necromancer Part Color_17: -897473401
+      Necromancer Part Color_25: -1367173150
+      Necromancer Part Color_16: 1442502640
+      Necromancer Part Color_19: -665228423
+      Necromancer Part Color_33: -1267740303
+      Necromancer Part Color_21: -1790481701
+      Necromancer Part Color_34: 1929010376
+      Necromancer Part Color_29: 2121959101
+      Necromancer Part Color_4: -2010158604
+      Necromancer Part Color_24: -1220244132
+      Necromancer Part Color_11: -1804631186
+      Necromancer Part Color_26: 984609081
+      Necromancer Part Color_35: 657206616
+      Necromancer Part Color_22: 102013674
+      Necromancer Part Color_32: -1116459132
+      Necromancer Part Color_0: -383467941
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

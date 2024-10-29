@@ -1,0 +1,43 @@
+Key,English,Russian
+Spell.Shield,Shield,Щит
+Spell.Shield.Desc,All allied units get Holy Shield,Все союзные юниты получают Святой Щит
+Spell.ToArms,To Arms,К оружию
+Spell.ToArms.Desc,All allied units move towards the enemy hero,Все союзные юниты направляются в сторону вражеского героя
+Spell.Blizzard,Blizzard,Буря
+Spell.Blizzard.Desc,All enemy units are stunned for {0} seconds,Все юниты противника оглушаются на {0} секунды
+Spell.Lightning,Lightning,Молния
+Spell.Lightning.Desc,Random enemy unit takes {0} damage,Случайный юнит противника получает {0} единиц урона
+Spell.Fortify,Fortify,Укрепления
+Spell.Fortify.Desc,"for {0} seconds creates fortifications around the hero, repelling enemies","на {0} секунд создает вокруг героя  укрепления, отталкивающее врагов"
+Spell.Scal,Scal,Панцирь
+Spell.Scal.Desc,All allied units on the field get +{0} armor,Все союзные юниты на поле получают +{0} к броне
+Spell.CallOfDead,Call of the dead,Зов мертвых
+Spell.CallOfDead.Desc,Turns all dead units on the field into allied skeletons,Превращает всех мертвых юнитов на поле в союзных скелетов
+Spell.Rush,Rush,Натиск
+Spell.Rush.Desc,Allied units get +{1} Attack for {0} seconds,Союзные юниты на {0} секунд получают + {1} к атаке
+Spell.Weakness,Weakness,Бессилие
+Spell.Weakness.Desc,Enemy units gain - {1} Attack for {0} seconds,Юниты противника на {0} секунд получают - {1} к атаке
+Spell.MagicWall,Magic Wall,Магическая стена
+Spell.MagicWall.Desc,"A magical barrier is released in the direction of the hero, which deals {0} damage to enemy units","По направлению героя  выпускается магический барьер, который наносит {0} урона юнитам противника"
+Spell.Cleansing,Cleansing,Очищение
+Spell.Cleansing.Desc,Removes debuffs from all allied units,Снимает отрицательные эффекты со всех союзных юнитов
+Spell.Repeal,Repeal,Отмена
+Spell.Repeal.Desc,Removes buffs from all enemy units,Снимает положительные эффекты со всех юнитов противника
+Spell.Hypnosis,Hypnosis,Гипноз
+Spell.Hypnosis.Desc,Takes control of a strongest enemy unit,Берет под контроль игрока сильнейшего юнита противника
+Spell.DrainLife,Life Drain,Изнурение
+Spell.DrainLife.Desc,"Enemy hero takes {0} damage,  ally Hero heals for {1} Health","Герой противника получает {0} урона,  герой лечится на {1} Здоровья "
+Spell.Armageddon,Armageddon,Армагеддон
+Spell.Armageddon.Desc,All enemie units takes {0] damage,Все юниты противника получают {0} урона
+Spell.Disarm,Disarm,Обезоруживание
+Spell.Disarm.Desc,All enemie units cant attack for {0} seconds,все юниты противника не могут атаковать в течении {0} секунд
+Spell.AntiMagic,AntiMagic,Магический щит
+Spell.AntiMagic.Desc,Ally units gets magic invulnerability for {0} seconds,дружественные юниты получают магическую неуязвимость на {0} секунд
+Spell.Disease,Disease,Болезнь
+Spell.Disease.Desc,"Заражает cлучайного юнита врага болезнью, которая наносит периодический урон {0} в секунду на протяжении {1} сек.","Заражает cлучайного юнита врага болезнью, которая наносит периодический урон {0} в секунду на протяжении {1} сек."
+Spell.Zeal,Zeal,Рвение
+Spell.Zeal.Desc,Allied units for {0} seconds change speed by {1} percent of base speed,Союзные юниты на  {0} сек. изменяют скорость на {1} процентов от базовой скорости
+Spell.PoisonCloud,PoisonCloud,Ядовитое облако
+Spell.PoisonCloud.Desc,"A poisonous cloud appears on the battlefield, dealing {0} damage to enemy units within the cloud. Duration {1} sec.","На поле боя появляется ядовитое облако, которое наносит вражеским юнитам {0} урона в пределах облака. Длительность {1} сек."
+Spell.Ressurection,Ressurection,Воскрешение
+Spell.Ressurection.Desc,Resurrects all dead allied units,Воскрешает всех мертвых союзных юнитов

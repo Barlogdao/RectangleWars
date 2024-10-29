@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4817835550a206e41970e6866d9d35ef, type: 3}
+  m_Name: Rookie
+  m_EditorClassIdentifier: 
+  Tier: 1
+  <BlankUnit>k__BackingField: 0
+  fraction: 0
+  Class: 2
+  AttackDistance: 1
+  Image: {fileID: 21300136, guid: fa5e488f07a840c4f848433d40e859ff, type: 3}
+  stats:
+    Health: 35
+    Attack: 25
+    AttackSpeed: 10
+    Armor: 5
+    Speed: 2.5
+  Animator: {fileID: 9100000, guid: cc8c2a66731760c4e8b7322b4c9b2d15, type: 2}
+  BulletPrefab: {fileID: 0}
+  GoldCost: 4
+  HitSound: {fileID: 0}
+  DieSound: {fileID: 0}
+  PerkInfo: "\u0421\u0432\u044F\u0442\u043E\u0439 \u0429\u0438\u0442\r\n"
+  PerkList:
+  - {fileID: 11400000, guid: 5f891f7877206c346aa4449352689875, type: 2}

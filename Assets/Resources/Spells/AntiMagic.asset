@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f44d01da4fff444ba68b486e995fa25, type: 3}
+  m_Name: AntiMagic
+  m_EditorClassIdentifier: 
+  Tier: 3
+  Fraction: 5
+  Image: {fileID: 987783325, guid: e70429080d855e640aaa695c0b725914, type: 3}
+  Spell: {fileID: 3680204829011618371, guid: 0adf02dfa5d42e640bf8fc3081a548fb, type: 3}
+  ManaCost: 14
+  SpellCooldown: 14

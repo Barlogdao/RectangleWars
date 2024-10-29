@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e2859757c24b2343a4d017226e69758, type: 3}
+  m_Name: Weakness
+  m_EditorClassIdentifier: 
+  Perkprefab: {fileID: -3798805909732452227, guid: f1a4b05a5ebf42142b19bf1924d714a5, type: 3}

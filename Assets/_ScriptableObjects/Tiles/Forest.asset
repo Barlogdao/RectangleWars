@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19cfadd6b4b6ffa41a5aa260449ee6f9, type: 3}
+  m_Name: Forest
+  m_EditorClassIdentifier: 
+  TileName: "\u041B\u0435\u0441"
+  ImmuneWalkType: 4
+  IsChangeSpeed: 1
+  SpeedRatio: 0.85
+  IsStopUnit: 0
+  ChanseToStop: 0
+  StopTime: 0
+  IsDealDamage: 0
+  ChanseToDealDamage: 0
+  Damage: 0
+  IsHeal: 0
+  HealAmount: 0
+  IsKillUnit: 0
+  ChanseToKill: 0
+  IsChangeDirection: 1
+  ChanseToChangeDirection: 50

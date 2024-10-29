@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: bead8ed1c0ca0bc4bba1afc21cbf2213
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: berserk_attack_spritet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8072492b192f51745a624170ef99645e
+      internalID: 126127742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 65
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5277189, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b09a774008df864ea49f4c546077ec0
+      internalID: -976427255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 65
+        height: 91
+      alignment: 9
+      pivot: {x: 0.61087507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625d7c38b68744a4f89d9ce24cdda972
+      internalID: -1711384910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 65
+        height: 88
+      alignment: 9
+      pivot: {x: 0.61087507, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031773f8e2ef9e74da8b3d1a9e20a15b
+      internalID: 1495718150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 65
+        height: 84
+      alignment: 9
+      pivot: {x: 0.7078909, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4d39ed140b7b348ac88ea5e3a93184
+      internalID: -642851288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_5
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1
+        width: 65
+        height: 75
+      alignment: 9
+      pivot: {x: 0.3336867, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074ec1ba990d85469fe4d6ea4cb5282
+      internalID: -1732605796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_6
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 65
+        height: 66
+      alignment: 9
+      pivot: {x: 0.36140513, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a5e60d1f0e93a44a5c398dea5f590e
+      internalID: 1143445041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_7
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 65
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5415781, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6f366118f28de4e89b6566b962def9
+      internalID: -287070026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_8
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 65
+        height: 64
+      alignment: 9
+      pivot: {x: 0.73560977, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09f22d5d7e9d7c4ba3d73fbc4cde47e
+      internalID: 461441112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_9
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 0
+        width: 65
+        height: 78
+      alignment: 9
+      pivot: {x: 0.6108746, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ead5f7528e333645b690a1c05dee065
+      internalID: -648090843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_10
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 0
+        width: 65
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f969008f5e1708e41952e2a7983a44ab
+      internalID: 30496170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_11
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 0
+        width: 65
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccea6d0b8f55abd4e96321bbf143fec2
+      internalID: 1310533725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: berserk_attack_spritet_12
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 65
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5692965, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb818431d18ae642ba9a14bfc10a7da
+      internalID: -1450939299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      berserk_attack_spritet_8: 461441112
+      berserk_attack_spritet_1: -976427255
+      berserk_attack_spritet_2: -1711384910
+      berserk_attack_spritet_10: 30496170
+      berserk_attack_spritet_5: -1732605796
+      berserk_attack_spritet_7: -287070026
+      berserk_attack_spritet_0: 126127742
+      berserk_attack_spritet_11: 1310533725
+      berserk_attack_spritet_4: -642851288
+      berserk_attack_spritet_3: 1495718150
+      berserk_attack_spritet_12: -1450939299
+      berserk_attack_spritet_9: -648090843
+      berserk_attack_spritet_6: 1143445041
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

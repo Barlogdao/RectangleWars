@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Chronos_an
+  m_Controller: {fileID: 9100000, guid: 43f5ec550001c274ca2c24e6e2da987d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: eefd6cd4e15e8164fa9b57788257b250, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 94416ec39ced35f40b12fc89eaf4ce02, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7421bde28c89f794dab62cbb4adc25ee, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 708bba76638da3947a54d4a236bba001, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1953f30332ca4b745bbf6627b2bdcbcc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 94344d5254fc20e41ad23f33e2ed200d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f057bdf2430dea14da897da534ea398c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ff17fcba328078e459b3b1e4cc0ba6b3, type: 2}

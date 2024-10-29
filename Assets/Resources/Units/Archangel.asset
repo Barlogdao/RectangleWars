@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4817835550a206e41970e6866d9d35ef, type: 3}
+  m_Name: Archangel
+  m_EditorClassIdentifier: 
+  Tier: 3
+  fraction: 0
+  Class: 8
+  AttackDistance: 1
+  Image: {fileID: 21300000, guid: b7428f57aa253024f9ff81056b7d4c69, type: 3}
+  stats:
+    Health: 50
+    Attack: 40
+    AttackSpeed: 9
+    Armor: 15
+    Speed: 2
+  Animator: {fileID: 22100000, guid: d7bbb18af635e9d42acb4df4bffad3ce, type: 2}
+  BulletPrefab: {fileID: 0}
+  GoldCost: 15
+  HitSound: {fileID: 0}
+  DieSound: {fileID: 0}
+  PerkInfo: "\u041F\u043E\u0433\u043B\u043E\u0449\u0435\u043D\u0438\u0435\r\n\u0421\u0432\u044F\u0442\u043E\u0439
+    \u0429\u0438\u0442\r\n\u0421\u0442\u0440\u0430\u043D\u043D\u0438\u043A\r\n"
+  PerkList:
+  - {fileID: 11400000, guid: 1cacf44730ed0f649a53ef8e0fd2546f, type: 2}
+  - {fileID: 11400000, guid: 5f891f7877206c346aa4449352689875, type: 2}
+  - {fileID: 11400000, guid: fc77578cbe428f748b8277d48b784923, type: 2}

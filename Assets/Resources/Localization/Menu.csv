@@ -1,0 +1,25 @@
+Key,English,Russian
+Menu.NewGame,New Game,Новая игра
+Menu.Continue,Continue,Продолжить
+Menu.Settings,Settings,Настройки
+Menu.Information,Information,Справка
+Menu.Exit,Exit,Выход
+Menu.Back,Back,Назад
+Menu.GeneralVolume,General Volume,Общая громкость
+Menu.MusicVolume,Music Volume,Громкость музыки
+Menu.SoundVolume,Sound Volume,Громкость звука
+Menu.Start,Start,Старт
+Menu.Pause,PAUSE,ПАУЗА
+Menu.ColorSelect,Select color,Выбери цвет
+Menu.ComplexitySelect,Select complexity,Выбери сложность
+Menu.HeroSelect,Select a hero,Выбери героя
+Comlexity.Easy,Easy,Легко
+Comlexity.Normal,Normal,Нормально
+Comlexity.Hard,Hell,Ад
+Label.Army,Army,Армия
+Label.Spells,Spells,Заклинания
+Button.NextLVL,To battle!,В бой!
+Button.Prepare,Prepare to battle,Приготовиться к битве
+Button.TryAgain,TryAgain,Заново
+Button.Next,Next,Дальше
+Menu.EnemyArmy,Next enemy,Следующий противник

@@ -1,0 +1,81 @@
+Key,English,Russian
+Unit.Health,Health,Здоровье
+Unit.Attack,Attack,Атака
+Unit.Armor,Armor,Броня
+Unit.AttackSpeed,Attack Speed,Скорость атаки
+Unit.Speed,Speed,Скорость
+Class.Shooter,Shooter,Стрелок
+Class.Warrior,Warrior,Воин
+Class.Wizard,Wizard,Маг
+Class.Scout,Scout,Разведчик
+Class.Assassin,Аssassin,Убийца
+Class.Hero,Hero,Герой
+Class.Worker,Worker,Рабочий
+Class.Commander,Commander,Командир
+Class.Summon,Summoned,Призванный
+Class.Support,Support,Поддержка
+Res.Gold,Gold,Золото
+Res.Mana,Mana,Мана
+Class.Shooter.Description,"deals +15 damage to warriors
+
+Bonus from the place of power:
+increases the unit's attack range","Стрелок
+
+наносит +15 урона воинам
+
+Бонус от места силы:
+увеличивает радиус атаки юнита"
+Class.Warrior.Description,"deals +10 damage to scouts
+
+Bonus from the place of power:
+taunts nearby enemies towards the unit","Воин
+
+наносит +10 урона разведчикам
+
+Бонус от места силы:
+направлят ближайших врагов в сторону юнита"
+Class.Wizard.Description,"deals +10 damage to heroes
+
+Bonus from the place of power:
+every 5 seconds gives the hero 1 mana
+","Маг
+
+наносит +10 урона героям
+
+Бонус от места силы:
+направлят ближайших врагов в сторону юнита"
+Class.Scout.Description,"deals  +10 damage to shooters
+
+Bonus from the place of power:
+places a mark on nearby enemies that increases the damage of the first hit by 10
+","Разведчик
+
+наносит +10 урона стрелкам
+
+Бонус от места силы:
+накладывает на ближайших врагов метку, которая увеличивает урон от первого удара по юниту на 10"
+Class.Assassin.Description,Sasin,Сасин
+Class.Hero.Description,Hero,герой
+Class.Worker.Description,Can occupy mines to give the hero gold,"Рабочий
+
+Может занимать шахты для получения героем золота
+"
+Class.Commander.Description,"allied units near the commander receive
++ 5 attack
++2 to armor
+
+Bonus from the place of power:
+ allied units near the commander receive
++10 Attack
++ 4 to armor","Командир
+
+союзные юниты рядом с командиром получают
++ 5 к атаке
++ 2 к броне
+
+Бонус от места силы:
+ союзные юниты рядом с командиром получают
++ 10 к атаке
++ 4 к броне"
+Class.Summon.Description,Summoned,Призванный
+Class.Support.Description,Суппорт,Суппорт

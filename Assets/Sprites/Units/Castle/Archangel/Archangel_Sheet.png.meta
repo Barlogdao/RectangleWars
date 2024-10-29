@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: d016dc540f8b46b4ebf80139b2ba8fb9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Archangel_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f19fef463501ee4b99314e14d7a7c35
+      internalID: -2095790401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 588
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e8f0dab62723847a420762e3409e64
+      internalID: -295212165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 588
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f0f158f497bc4aa9678eb0742d2f5
+      internalID: 594461242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 588
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdf91c2541847f42a6a77ef3d5f66f8
+      internalID: 257654181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 588
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0fb150f53ffd4fa2780b9f144448e
+      internalID: 1543831192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 588
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef21baa5792cf8f41ad64834c343df5d
+      internalID: -1346991408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7f9a3e0c6d4764c922ae244f17147a
+      internalID: -1343916555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 504
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247e5f529c7d607489513f4cb6cb68d4
+      internalID: -1829721016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 504
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db108864d00249544b581545cffbdc91
+      internalID: 2048201484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 504
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3f423736612b54aa300aa34852b59f
+      internalID: 138065470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55f03f14822a344a9fec1b8afe0191e
+      internalID: 607223005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 504
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f5f72f75946ea459682c5549109a6b
+      internalID: 412458297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 420
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a108bf264c817b4f945bd11394ffd8a
+      internalID: -2091871324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 420
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745c57e88df79d248b4d670259fdb304
+      internalID: 1533420614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 420
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce27e72eb8b40849b3b0c6ed2909d8c
+      internalID: 1121257881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 420
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c7d0cbd983f39409b487c16965ea08
+      internalID: -1118595915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 420
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb35e5da4d4b49841a6b124ace15ec08
+      internalID: -683610877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 420
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c629dc0cc046b34408ff60bd5a734310
+      internalID: 1456210133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09fd7452db7e334296d79330249742f
+      internalID: 1849942510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 336
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7539670908a6f34ab09bdab191b57bc
+      internalID: -1078483756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 336
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2494d3b449d249e4da1b2e82a9930700
+      internalID: -1781230075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 336
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42e85c11cc5fd74391b39ac16b08b74
+      internalID: 1666082051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 336
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004c2e42f4db11e4baaf4393eee8dbc4
+      internalID: -949976602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 336
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a4be2bec6e8624991fa19212a65071
+      internalID: -50868214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7e0e3d68dcf774396069813740376f
+      internalID: 2021483990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 252
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd17d4c9c4e5bf4b9d9ece49d4cbb16
+      internalID: 2061902707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 252
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bbaf97544e38242920ed90db4bc321
+      internalID: -1591384762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 252
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe53e6c4bdef6444db21b093d6ff4056
+      internalID: 1961956236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 252
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c4a1971e4d3d74ab1682dd50db1238
+      internalID: 634568016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 252
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91cfb2a4005f6547939acda1c93f1e0
+      internalID: -958984046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11b896ddeded50438e94c624ab58b6c
+      internalID: 161119313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 168
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f3f84d4ebe9984c88b1334c7da62db
+      internalID: -1877873800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 168
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be5fa69ad0b1f944856514ac2a146ec
+      internalID: -1798334142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 168
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9026853170696e44487d8077211ee76b
+      internalID: 1433044836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481078b7236a722499b01e336584a313
+      internalID: -2080443459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 168
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e9a2104cf5f4542bd42a92a23786aa
+      internalID: 799443523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99026d9f946a6324bbfde3a473c31470
+      internalID: 1252392524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 84
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b76af58eaa4de43a2ebe9ea8764fad
+      internalID: -171574204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 84
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c206b474292bc33478a8298ccc2fb409
+      internalID: -1446946735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 84
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8285bb188a7ef694f822b77fbb2df242
+      internalID: -392558376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 84
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdba0504089cc9c4b9a74789b258be9b
+      internalID: 1184565783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 84
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bac0c14d78c48a4facea2d718d4bbeb
+      internalID: 1713281512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddd5fd0a0b243a448d72b68471aa51d
+      internalID: 253444670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Archangel_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 126
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2a948ef4230054785061e7bb2e8149
+      internalID: 1472991953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: a8c7eb8446e949148a293d1d451f86d2, type: 3}
+      name: _Emission
+    nameFileIdTable:
+      Archangel_Sheet_11: 412458297
+      Archangel_Sheet_33: 1433044836
+      Archangel_Sheet_13: 1533420614
+      Archangel_Sheet_16: -683610877
+      Archangel_Sheet_37: -171574204
+      Archangel_Sheet_1: -295212165
+      Archangel_Sheet_29: -958984046
+      Archangel_Sheet_32: -1798334142
+      Archangel_Sheet_34: -2080443459
+      Archangel_Sheet_15: -1118595915
+      Archangel_Sheet_5: -1346991408
+      Archangel_Sheet_35: 799443523
+      Archangel_Sheet_23: -50868214
+      Archangel_Sheet_3: 257654181
+      Archangel_Sheet_38: -1446946735
+      Archangel_Sheet_7: -1829721016
+      Archangel_Sheet_8: 2048201484
+      Archangel_Sheet_43: 1472991953
+      Archangel_Sheet_4: 1543831192
+      Archangel_Sheet_20: -1781230075
+      Archangel_Sheet_30: 161119313
+      Archangel_Sheet_18: 1849942510
+      Archangel_Sheet_24: 2021483990
+      Archangel_Sheet_22: -949976602
+      Archangel_Sheet_28: 634568016
+      Archangel_Sheet_14: 1121257881
+      Archangel_Sheet_9: 138065470
+      Archangel_Sheet_17: 1456210133
+      Archangel_Sheet_25: 2061902707
+      Archangel_Sheet_26: -1591384762
+      Archangel_Sheet_19: -1078483756
+      Archangel_Sheet_6: -1343916555
+      Archangel_Sheet_0: -2095790401
+      Archangel_Sheet_12: -2091871324
+      Archangel_Sheet_2: 594461242
+      Archangel_Sheet_21: 1666082051
+      Archangel_Sheet_40: 1184565783
+      Archangel_Sheet_39: -392558376
+      Archangel_Sheet_42: 253444670
+      Archangel_Sheet_41: 1713281512
+      Archangel_Sheet_27: 1961956236
+      Archangel_Sheet_10: 607223005
+      Archangel_Sheet_31: -1877873800
+      Archangel_Sheet_36: 1252392524
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

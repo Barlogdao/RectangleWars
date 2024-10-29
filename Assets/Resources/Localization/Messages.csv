@@ -1,0 +1,23 @@
+Key,English,Russian
+Message.Reward,Choose reward,Выбери награду
+Message.InfoMessage,"Select units in the barracks and press the space bar to let them into battle
+
+Click on the spells of your hero and get advantages on the battlefield.","Выбирай воинов в казарме и жми пробел, чтобы пустить их в бой
+
+Используй заклинания своего героя и получай преимущества на поле боя."
+Message.Loose,"We loose!
+Maybe use another tactic?","Наше войско разбито!
+Может применить другую тактику?"
+Message.Win,"The enemy is defeated!
+But the war is not over yet...","Враг повержен!
+Но война еще не окончена…"
+Message.FinalWin,"The enemy is defeated!
+Congratulations! Now you can rest!","Враг повержен!
+Поздравляем! Теперь можно отдохнуть!"
+Message.FullInfo,(press LMB for details),(нажми ЛКМ для подробной информации)
+Message.SpawnUnitTutorial,"A/D - unit selection
+Space - spawn a unit","A/D - выбор юнита
+Space - вызвать юнита"
+Message.CastSpellTutorial,"Left/Right - spell selection
+Enter - cast a spell","Left/Right - выбор заклинания
+Enter - произнести заклинание"

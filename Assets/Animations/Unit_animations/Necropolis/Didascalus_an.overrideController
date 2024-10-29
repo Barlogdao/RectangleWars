@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Didascalus_an
+  m_Controller: {fileID: 9100000, guid: cc8c2a66731760c4e8b7322b4c9b2d15, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ccc5ae69fcf32ab47bfb5f4b1c24bd03, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f8e01d678f68777418c781fcc5b51751, type: 2}

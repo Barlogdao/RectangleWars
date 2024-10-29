@@ -1,0 +1,51 @@
+Key,English,Russian
+Perk.Rage,Rage,Предсмертная ярость
+Perk.Rage.Desc,Unit's attacks deal critical damage when Health is less than {0},Атаки юнита наносят критический урон когда Здоровье менее {0}
+Perk.DoubleStrike,Double Strike,Двойной удар
+Perk.DoubleStrike.Desc,{0} percent chance to deal double damage on Attack,Шанс {0} процентов нанести двойной урон при атаке
+Perk.CriticalStrike,Critical Strike,Критический удар
+Perk.CriticalStrike.Desc,{0} percent chance to critically hit on attack,Шанс {0} процентов нанести критический урон при атаке
+Perk.Vampirism,Vampirism,Вампиризм
+Perk.Vampirism.Desc,After each attack unit restores {0} Health,Восстанавливает юниту {0} Здоровья после каждой атаки
+Perk.HolyShield,Holy Shield,Святой Щит
+Perk.HolyShield.Desc,Prevents the unit from first hit,Предотвращает первый удар по юниту
+Perk.Consume,Consume,Поглощение
+Perk.Consume.Desc,{0} percent chance to take no damage when attacking,Шанс {0} процентов не получить урон при атаке
+Perk.Mark,Mark,Метка
+Perk.Mark.Desc,Increases damage taken from the next attack by {0},Увеличивает получаемый урон от следующей атаки на {0}
+Perk.Burning,Burning,Горение
+Perk.Burning.Desc,A melee enemy that kills a unit is set on fire and takes {0} damage per second for {1} seconds,Убивший юнита противник ближнего боя поджигается и получает {0} урона в секунду в течение {1} секунд 
+Perk.Castling,Castling,Рокировка
+Perk.Castling.Desc,When hit the unit swaps its Health and Attack stats,При получении урона юнит меняет местами показатель Здоровья и Атаки 
+Perk.Cleave,Cleave,Пробивной удар
+Perk.Cleave.Desc,Unit attacks ignore enemy Armor,Атаки юнита игнорируют показатель Брони противника
+Perk.Ressurection,Ressurection,Воскрешение
+Perk.Ressurection.Desc,Creates {0} from a dead unit within {1} radius every {2} seconds,Создает {0} из мертвого юнита в радиусе {1} каждые {2} секунды
+Perk.Fabric,Fabric,Фабрика
+Perk.Fabric.Desc,Spawns {0} in {1} radius every {2} seconds,Создает {0} в радиусе {1} каждые {2} секунд
+Perk.Waterwalk,Waterwalk,Мореход
+Perk.Waterwalk.Desc,Immunity from the negative effects of water terrain,Иммунитет от негативных эффектов воды
+Perk.Forestwalk,Forestwalk,Лесник
+Perk.Forestwalk.Desc,Immunity from the negative effects of forest terrain,Иммунитет от негативных эффектов леса
+Perk.Sandwalk,Sandwalk,Бедуин
+Perk.Sandwalk.Desc,Immunity from the negative effects of sand terrain,Иммунитет от негативных эффектов пустыни
+Perk.Mugwalk,Mugwalk,Бурлак
+Perk.Mugwalk.Desc,Immunity from the negative effects of mug terrain,Иммунитет от негативных эффектов грязи
+Perk.Landwalk,Landwalk,Странник
+Perk.Landwalk.Desc,Immunity from negative effects of all types of terrain terrain,Иммунитет от негативных эффектов всех типов местности
+Perk.Weakness,Weakness,Бессилие
+Perk.Weakness.Desc,Enemy  gain - {1} Attack for {0} seconds,Юнит на {0} секунд получает - {1} к атаке
+Perk.Rush,Rush,Натиск
+Perk.Rush.Desc,Unit get +{1} Attack for {0} seconds,Юнит на {0} секунд получает + {1} к атаке
+Perk.Scal,Scal,Панцирь
+Perk.Scal.Desc,Unit get +{0} armor,Юнит получает +{0} к броне
+Perk.Medium,Medium,Медиум
+Perk.Medium.Desc,"When a unit dies, its owner gains {0} mana",При смерти юнита его владелец получает {0} маны
+Perk.HealingAura,Healing Aura,Аура Лечения
+Perk.HealingAura.Desc,Heals nearby allies for 15 Health,Лечит ближайших союзников на 15 единиц Здоровья
+Perk.Disease,DiseaseP,Болезнь
+Perk.Disease.Desc,наносит юниту периодический урон {0} в секунду на протяжении {1} сек.,наносит юниту периодический урон {0} в секунду на протяжении {1} сек.
+Perk.Disarmed,Disarmed,Безоружный
+Perk.Disarmed.Desc,Unit cant attack for {0} seconds,юнит не может атаковать в течении {0} секунд
+Perk.Zealed,Zealed,Быстрый
+Perk.Zealed.Desc,Unit is accelerated by {0}% for {1} seconds.,Юнит ускоряется на {0}% в течении {1} сек.

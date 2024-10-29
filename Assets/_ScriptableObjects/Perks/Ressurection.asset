@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e2859757c24b2343a4d017226e69758, type: 3}
+  m_Name: Ressurection
+  m_EditorClassIdentifier: 
+  nameKey: Perk.Ressurection
+  Description: 
+  Perkprefab: {fileID: -3887291286946540267, guid: cafb04220cf2c454cb186fa7236deac4, type: 3}

@@ -1,0 +1,25 @@
+Key,English,Russian
+Hero.Leadership,Leadership,Лидерство
+Hero.Sorcery,Sorcery,Колдовство
+Hero.Stamina,Stamina,Стойкость
+Hero.Leadership.Desc,Improves the combat capability of units,Улучшение боеспособности юнитов
+Hero.Sorcery.Desc,Improves the hero's magical abilities,Улучшение магических способностей героя
+Hero.Stamina.Desc,Hero defense Improvement,Улучшение защиты героя
+Hero.Karl,Karl,Карл
+Hero.Lutess,Lutess,Лютеция
+Hero.GoldEarn,Gold acquisition rate,Скорость получения золота
+Hero.ManaEarn,Mana regeneration rate,Скорость восстановления маны
+Hero.Insight,Insight,Озарение
+Hero.InsightDescription,"
+An effect that triggers when the Insight bar is full.
+The hero gains insight points when taking damage, killing enemy units and allied units are dies.","Эффект, который срабатывает при заполнении шкалы Озарения. 
+Герой получает очки озарения при получении урона, убийстве юнитов врага и смерти союзных юнитов."
+Hero.InsightEffect.Description,Additional effect on Insight:,Дополнительный эффект при Озарении:
+Hero.UnitPerkEffect.Description,"
+Allied units gains next perk:",Союзные юниты получают умение:
+Hero.CDReload.Description,Decreases the hero's spell cooldown by {0} seconds.,уменьшает перезарядку заклинаний героя на {0} сек.
+Hero.AddHealth.Description,Hero gains +{0} Health,Герой получает +{0} к Здоровью
+Hero.AddArmor.Description,Hero gains +{0} Armor,Герой получает +{0} к Броне
+Hero.AddAttack.Description,Hero gains +{0} Attack,Герой получает +{0} к Атаке
+Hero.UnitStatBuff.Description,Increase unit characteristics:,Увеличение характеристик юнита:
+Hero.Chronos,Chronos,Хронос

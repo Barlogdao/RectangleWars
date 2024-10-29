@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: berserk_animator
+  m_Controller: {fileID: 9100000, guid: cc8c2a66731760c4e8b7322b4c9b2d15, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6a5381aaa6af29e43be56ece6f8eef4e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a589a90ec09f8024480ac5853bbae453, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f4defed5459d80744adf6bbc0a024a54, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a21af30a6676a6f4596e211c3a2aa616, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7047bc5c7c4c7e142affc1cd6a959bf6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 15510671cb5335849a947d41fea2628c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ccc5ae69fcf32ab47bfb5f4b1c24bd03, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 45a97b59976e27f48a670075f64e2c85, type: 2}

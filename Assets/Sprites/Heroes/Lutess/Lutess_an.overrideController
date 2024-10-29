@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lutess_an
+  m_Controller: {fileID: 9100000, guid: 43f5ec550001c274ca2c24e6e2da987d, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 1953f30332ca4b745bbf6627b2bdcbcc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7b31d4ad43d688f4289b527492dcf157, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7421bde28c89f794dab62cbb4adc25ee, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 00766e1536914ca4fa69714d0e040a54, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eefd6cd4e15e8164fa9b57788257b250, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0735b66f8b39fca4981ced266fdf806f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f057bdf2430dea14da897da534ea398c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 22833f5f87af53145bb44064f804de6b, type: 2}

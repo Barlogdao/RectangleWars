@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f44d01da4fff444ba68b486e995fa25, type: 3}
+  m_Name: Zeal
+  m_EditorClassIdentifier: 
+  Tier: 2
+  Fraction: 5
+  Image: {fileID: 1151912695, guid: e70429080d855e640aaa695c0b725914, type: 3}
+  Spell: {fileID: -304189651618149501, guid: 64dea5c32673211428135ef82359532d, type: 3}
+  ManaCost: 10
+  SpellCooldown: 15

@@ -1,0 +1,1179 @@
+fileFormatVersion: 2
+guid: db43e81a788535d4b97d168e9c6fd90c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9b6743de1fa484bbbb264c9f1fff7e
+      internalID: 347186739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 448
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70636bcccc0858f4e98141309210b4dd
+      internalID: 558467096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 448
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8aaec7de9ebf84aa01f98faa91eb29
+      internalID: 597082115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 448
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a14a07e1d00e3045b3611a8b904d0a2
+      internalID: 640650174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_4
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 448
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311578ecc1f064c4c9f3e39487db9188
+      internalID: -2016855505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_5
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 448
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c445955c9edc64eaa3626861aa7c12
+      internalID: -1503148778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e975cff5f4959499656283071081f6
+      internalID: -1799550492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 384
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2332c08dcd3824a8d86d30ab6a6560
+      internalID: 587970455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_8
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 384
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e85387555773445970759f250c7eca
+      internalID: 1305212640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 384
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90466c99486132c4cb18114c3898a527
+      internalID: 1628901006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 384
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dab3f645e0c994bbe1483c31e59170
+      internalID: -424091184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_11
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 384
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6400ac54c886a8e4fa0b73827d52a347
+      internalID: -978495898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4cf2748b0f5694f8bbb1de9a719b21
+      internalID: -2114272221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_13
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 320
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1abe84d6d910a54aa305c0386d3464e
+      internalID: 1895064558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 320
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbe0e5609f1a9c49bad109f8e538547
+      internalID: 221560663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 320
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5317d732d422b4a8f9517e563ff28d
+      internalID: -965160242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_16
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 320
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c45fb8ad8245741874845d1a880670
+      internalID: 1024679303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 320
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21363f85491a784fa5c4468a8f972b6
+      internalID: -1102484082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25586f1cedb9504f82254cb97c83b8a
+      internalID: 1802813295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 256
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313c62fcd47e5e64e8d5ca4d56bbf354
+      internalID: -1322229207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 256
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9926a25365d588144b268d3394b206d9
+      internalID: -1923441618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a04d631185bafd4dacb9017355c399c
+      internalID: -778196460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869d7e96c93aaf649bde1610bef47f8a
+      internalID: 2074122802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 256
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2aece1b1cb21b4b8f8af0aa5aabcdc
+      internalID: 906166464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc0fa65cbe2b994bb446e3e21c0db73
+      internalID: -1287720318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 192
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec21e5b877179d49a039de479299caf
+      internalID: 1273471885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 192
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894cfcefb9c015c4eb23eefd6922ec40
+      internalID: -583403597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 192
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448a475fc4d8644b8afe748bdb3d5ef
+      internalID: 885835981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 192
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a18edabcd4f129449253306415a0bb4
+      internalID: 1098686811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_29
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 192
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05d067a9c3a03d47821a19d25a271bf
+      internalID: -61820141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f204f6a85a35e4aa5a83719f3310ad
+      internalID: 1466456268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 128
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5340e55a069c1a9498fff31552fd4140
+      internalID: -862040799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 128
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bb5ebf8e4944b48a44afd70dd9018a
+      internalID: -2001838446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 128
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e713d709ed289149bc253d397382548
+      internalID: -1377348465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 128
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d11bea89857af4a854616b478f3b9a
+      internalID: -987013022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 128
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33c65678b281354ab6f83e9e3103c66
+      internalID: 1997699215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26bbe05e8ddb7c4ab374880d9846661
+      internalID: 273226963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 64
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6197541e7d2fbe146bd4be0b72a435e6
+      internalID: 2027499392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c831b74d4f5189e4e858a5cde0e02bc7
+      internalID: 1225325440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 64
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1fe838e4c51004688cfd9a58d48415
+      internalID: -1846728377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_40
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 64
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e649a3a1913b8642b3620a9730ac03b
+      internalID: 289172852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_41
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 64
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdde64792ac2efe40ba53bb421f25605
+      internalID: -1376132421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc108897c8ae9e849b21bc7bbfc9cbb3
+      internalID: 10475325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f30e3fe0d4fed488d64a084d64ba51
+      internalID: 563788480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_44
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeaf57c4aedb7844917fb365e46e003
+      internalID: 2092171510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024af5151d1af2e4ab6426dc4083ecf0
+      internalID: 1227909727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd71f0f13d4e1b1449c9607755254584
+      internalID: -1797661443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutess_Hero_Main_PC_47
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 0
+        width: 85
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96995a4babce37d489ff41ef634b31fc
+      internalID: 1535320521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lutess_Hero_Main_PC_23: 906166464
+      Lutess_Hero_Main_PC_6: -1799550492
+      Lutess_Hero_Main_PC_27: 885835981
+      Lutess_Hero_Main_PC_47: 1535320521
+      Lutess_Hero_Main_PC_7: 587970455
+      Lutess_Hero_Main_PC_16: 1024679303
+      Lutess_Hero_Main_PC_15: -965160242
+      Lutess_Hero_Main_PC_36: 273226963
+      Lutess_Hero_Main_PC_29: -61820141
+      Lutess_Hero_Main_PC_33: -1377348465
+      Lutess_Hero_Main_PC_26: -583403597
+      Lutess_Hero_Main_PC_14: 221560663
+      Lutess_Hero_Main_PC_4: -2016855505
+      Lutess_Hero_Main_PC_10: -424091184
+      Lutess_Hero_Main_PC_12: -2114272221
+      Lutess_Hero_Main_PC_32: -2001838446
+      Lutess_Hero_Main_PC_2: 597082115
+      Lutess_Hero_Main_PC_5: -1503148778
+      Lutess_Hero_Main_PC_25: 1273471885
+      Lutess_Hero_Main_PC_37: 2027499392
+      Lutess_Hero_Main_PC_19: -1322229207
+      Lutess_Hero_Main_PC_9: 1628901006
+      Lutess_Hero_Main_PC_20: -1923441618
+      Lutess_Hero_Main_PC_45: 1227909727
+      Lutess_Hero_Main_PC_8: 1305212640
+      Lutess_Hero_Main_PC_41: -1376132421
+      Lutess_Hero_Main_PC_34: -987013022
+      Lutess_Hero_Main_PC_28: 1098686811
+      Lutess_Hero_Main_PC_43: 563788480
+      Lutess_Hero_Main_PC_35: 1997699215
+      Lutess_Hero_Main_PC_11: -978495898
+      Lutess_Hero_Main_PC_46: -1797661443
+      Lutess_Hero_Main_PC_31: -862040799
+      Lutess_Hero_Main_PC_22: 2074122802
+      Lutess_Hero_Main_PC_38: 1225325440
+      Lutess_Hero_Main_PC_17: -1102484082
+      Lutess_Hero_Main_PC_1: 558467096
+      Lutess_Hero_Main_PC_40: 289172852
+      Lutess_Hero_Main_PC_0: 347186739
+      Lutess_Hero_Main_PC_44: 2092171510
+      Lutess_Hero_Main_PC_21: -778196460
+      Lutess_Hero_Main_PC_18: 1802813295
+      Lutess_Hero_Main_PC_13: 1895064558
+      Lutess_Hero_Main_PC_39: -1846728377
+      Lutess_Hero_Main_PC_3: 640650174
+      Lutess_Hero_Main_PC_42: 10475325
+      Lutess_Hero_Main_PC_24: -1287720318
+      Lutess_Hero_Main_PC_30: 1466456268
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

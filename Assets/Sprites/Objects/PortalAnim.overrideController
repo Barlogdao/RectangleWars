@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PortalAnim
+  m_Controller: {fileID: 9100000, guid: b7c46ed2dc56b4b4b91cea4100737c0a, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 8c886d98c3674164bb3336df0c2351d6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 20ccacb31b87ab8439b4cc0c0ded7aa4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 91d541098f73b824ea881d981736fe64, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 414fad008dd730547813c4c9825d3651, type: 2}

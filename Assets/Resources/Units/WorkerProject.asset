@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4817835550a206e41970e6866d9d35ef, type: 3}
+  m_Name: WorkerProject
+  m_EditorClassIdentifier: 
+  Tier: 1
+  <BlankUnit>k__BackingField: 1
+  fraction: 5
+  Class: 6
+  AttackDistance: 1
+  Image: {fileID: 21300000, guid: 780eabce3dfd84846b5bc072a91ace3e, type: 3}
+  stats:
+    Health: 20
+    Attack: 5
+    AttackSpeed: 10
+    Armor: 0
+    Speed: 2.5
+  Animator: {fileID: 22100000, guid: a76ffdbf41e96854f822e38df3440e0f, type: 2}
+  BulletPrefab: {fileID: 0}
+  GoldCost: 0
+  HitSound: {fileID: 0}
+  DieSound: {fileID: 0}
+  PerkInfo: 
+  PerkList: []
